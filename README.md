@@ -21,10 +21,10 @@ Here are some ideas to get you started:
  
 <!-- Your bio, links, etc. go here -->
 
-
-
 <div align="center">
-  <p>
-    <img src=https://infinitabiotech.com/blog/enzymes-in-the-baking-industry" alt="Descriptive Text for the GIF" />
-  </p>
+  <!-- Replace href with your links -->
+  <a href="[https://www.linkedin.com/in/[YourLinkedIn]/](https://www.linkedin.com/in/gabriela-rodriguez-lopez-16ba14b3/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
+
