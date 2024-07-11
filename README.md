@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 
  
 <!-- Your bio, links, etc. go here -->
+
+
+
+<div align="center">
+  <p>
+    <img src=https://infinitabiotech.com/blog/enzymes-in-the-baking-industry" alt="Descriptive Text for the GIF" />
+  </p>
+</div>
