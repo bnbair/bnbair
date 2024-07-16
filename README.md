@@ -1,5 +1,5 @@
-![readme-typing-svg herokuapp](https://github.com/user-attachments/assets/596a7032-ee46-4b02-a86f-4076fd83cf98)## Hi there 👋
-
+## Hi there 👋
+![readme-typing-svg herokuapp](https://github.com/user-attachments/assets/596a7032-ee46-4b02-a86f-4076fd83cf98)
  ## Hi there 👋
 
 
