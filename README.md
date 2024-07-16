@@ -2,7 +2,7 @@
 ![readme-typing-svg herokuapp](https://github.com/user-attachments/assets/596a7032-ee46-4b02-a86f-4076fd83cf98)
 
  
-
+<!-- 
 **bnbair/bnbair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
